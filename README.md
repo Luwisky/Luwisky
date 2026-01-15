@@ -103,9 +103,16 @@ ________________________________________________________________________________
 **⚡ Fun fact: **I enjoy breaking down complex datasets into simple, actionable insights—and I document my thinking every step of the way.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🏆 Skills at a Glance:
-![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=yellow)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=plastic)
-PostgreSQL Python R Machine Learning NLP Hypothesis Testing Data Visualization EDA Problem Solving Good Communication
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=plastic)	
+![R](https://img.shields.io/badge/R-Programming-green?style=plastic)	
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-yellow?style=plastic)	
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-red?style=plastic)	
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-orange?style=plastic)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Charts%20%26%20Graphs-blue?style=plastic)	
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-EDA-green?style=plastic)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Critical%20Thinking-blue?style=plastic)	
+![Communication](https://img.shields.io/badge/Communication-Clear%20Reporting-green?style=plastic)	
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 📬 Let's Connect
 
