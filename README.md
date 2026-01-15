@@ -22,7 +22,7 @@ I stand out because I combine technical expertise, business insight, and clear c
 
 **Remote-Ready & Collaborative:** I write clean, documented, and reproducible code, making me reliable for remote work or freelance projects.
 
-**Soft Skills That Matter: **Strong problem-solving, analytical thinking, attention to detail, and communication complement my technical skills.
+**Soft Skills:** Strong problem-solving, analytical thinking, attention to detail, and communication complement my technical skills.
 
 **Growth Mindset:** I continuously learn, improve, and adapt to new tools, techniques, and client needs, ensuring that my work keeps delivering value.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -87,11 +87,11 @@ ________________________________________________________________________________
 - 📚 Self-Learning & Growth Mindset
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🔭 ## I’m currently working on
+🔭  **I’m currently working on**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Improving project documentation, visual storytelling, and reproducible workflows for remote collaboration
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-##🌱 I’m currently learning
+🌱** I’m currently learning**
 
 Advanced feature engineering and model evaluation techniques
 
@@ -100,7 +100,7 @@ Writing cleaner, production-ready Python notebooks
 Translating business questions into data-driven insights
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**⚡ Fun fact: **I enjoy breaking down complex datasets into simple, actionable insights—and I document my thinking every step of the way.
+⚡ **Fun fact:** I enjoy breaking down complex datasets into simple, actionable insights—and I document my thinking every step of the way.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🏆 Skills at a Glance:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=plastic)
