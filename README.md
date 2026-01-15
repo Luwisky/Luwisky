@@ -26,7 +26,6 @@ I stand out because I combine technical expertise, business insight, and clear c
 
 **Growth Mindset:** I continuously learn, improve, and adapt to new tools, techniques, and client needs, ensuring that my work keeps delivering value.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## 📂 Featured Projects
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -53,53 +52,45 @@ Explored retail sales data to identify sales trends, seasonality, and product pe
 Skills: Business analysis, visualization, insight generation.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-##🛠️ Core Skills
+## 🛠️Core Skills
 
-- Programming & Querying
+### 💻 Programming & Querying
+- 🐍 Python  
+- 🅁 R  
+- 🗄️ SQL / PostgreSQL  
 
-Python
+### 📊 Data Analysis & Visualization
+- 📈 Data Exploration & EDA (pandas, NumPy, dplyr, tidyverse)  
+- 📊 Visualization (Matplotlib, Seaborn, ggplot2)  
 
-SQL (PostgreSQL)
+### 🤖 Machine Learning & AI
+- 🧮 Regression & Classification  
+- 🔍 Clustering & Anomaly Detection  
+- 🧬 Feature Engineering & Model Evaluation  
+- 🛠️ Scikit-learn, TensorFlow, Keras 
 
-R (basic to intermediate)
+### 💬 Natural Language Processing (NLP)
+- 📝 Text Cleaning & Preprocessing  
+- 🔢 Vectorization & Feature Extraction  
+- 📧 Classification Models (Spam Detection, NLP tasks)  
+- 🧰 Tools: NLTK, spaCy  
 
-Data Analysis & Visualization
+### 🗃️ Data Management & Tools
+- 🗄️ PostgreSQL / SQL  
+- 💾 Git & GitHub  
+- 📓 Jupyter Notebook 
 
-pandas, NumPy
+### 🧩 Soft Skills
+- 🧠 Problem Solving  
+- 💬 Communication  
+- 🤝 Team Collaboration  
+- 📚 Self-Learning & Growth Mindset
+  __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Matplotlib, Seaborn
-
-ggplot2, tidyverse
-
-**Machine Learning & Statistics**
-
-Linear & Logistic Regression
-
-Classification Models
-
-Feature Engineering
-
-Model Evaluation
-
-Hypothesis Testing
-
-**Tools**
-
-Git & GitHub
-
-Jupyter Notebook
-
-🧩 Soft Skills
-Problem Solving, Communication, Team Collaboration, Self-Learning
-
-
-
-🔭 I’m currently working on
-
-End-to-end data analysis and machine learning projects including salary prediction, wine quality prediction, prostate cancer analysis, and retail sales analysis
-
+##🔭 I’m currently working on
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Improving project documentation, visual storytelling, and reproducible workflows for remote collaboration
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 **🌱 I’m currently learning**
 
 Advanced feature engineering and model evaluation techniques
@@ -107,21 +98,12 @@ Advanced feature engineering and model evaluation techniques
 Writing cleaner, production-ready Python notebooks
 
 Translating business questions into data-driven insights
-
-**💬 Ask me about**
-
-Exploratory Data Analysis (EDA)
-
-Salary and price prediction models
-
-Healthcare and retail data analysis
-
-Python for data analysis and machine learning
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **⚡ Fun fact:**
 
 I enjoy breaking down complex datasets into simple, actionable insights—and I document my thinking every step of the way.
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
  Skills at a Glance
 PostgreSQL Python R Machine Learning NLP Hypothesis Testing Data Visualization EDA Problem Solving Good Communication
 
