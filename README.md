@@ -1,12 +1,13 @@
-##👋 Hi, I’m Monica Enyam Nkiri
+**👋 Hello, I’m Monica Enyam Nkiri**
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 I’m a Data Analyst and Data Scientist with a background in Computer Engineering, focused on using data to extract insights, build predictive models, and support data-driven decision-making.
 
 My work is project-driven and practical, covering exploratory data analysis (EDA), statistical reasoning, SQL-based analysis, and supervised machine learning. I enjoy working with real datasets to solve problems related to pricing, income prediction, healthcare risk, and business performance.
 
-🌍 Location: Abuja, Nigeria (open to remote roles)
-
+🌍 Location:Nigeria
 📫 Contact:[LinkedIn](https://www.linkedin.com/in/nkiri-monica-2b220b268) | [Email](mailto:nkirimonica2@gmail.com) 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🛠️ Technical Skills**
 Programming & Querying
