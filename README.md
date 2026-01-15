@@ -1,4 +1,4 @@
-#👋 Hello, I’m Monica Enyam Nkiri**
+#👋 Hello, I’m Monica Enyam Nkiri
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’m a Data Analyst and Data Scientist with a background in Computer Engineering, focused on using data to extract insights, build predictive models, and support data-driven decision-making.
 
@@ -8,57 +8,54 @@ My work is project-driven and practical, covering exploratory data analysis (EDA
 
 📫 Contact:[LinkedIn](https://www.linkedin.com/in/nkiri-monica-2b220b268) | [Email](mailto:nkirimonica2@gmail.com) 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-## why i stand out
-### Portfolio-Driven, Hands-On Learning
+#💡 Why I Stand Out
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I stand out because I combine technical expertise, business insight, and clear communication in every project I do. I don’t just build models—I deliver actionable, data-driven solutions that clients and teams can trust.
 
-Unlike many beginners who only follow tutorials, you build real projects that simulate real business and healthcare problems: salary prediction, retail sales analysis, prostate cancer data, and wine quality prediction.
+**Portfolio-Driven Projects**: I’ve built real-world projects in salary prediction, wine quality modeling, prostate cancer analysis, and retail sales analytics, showing my ability to handle diverse datasets and questions.
 
-Each project shows your ability to go end-to-end: cleaning → exploration → modeling → insights.
+**Full Data Workflow Experience:** From data cleaning and exploration to modeling, evaluation, and insight communication, I handle the entire data lifecycle with clarity and structure.
 
-### Technical Versatility
+**Technical Versatility:** I’m proficient in Python, R, SQL/PostgreSQL, statistical analysis, and machine learning, giving me the tools to solve both business and healthcare problems.
 
-You can work with Python, R, and SQL/PostgreSQL, covering both coding and database querying.
+**Business & Client Awareness**: I focus on insights that drive decisions, not just numbers—helping clients optimize strategies, understand trends, and make informed choices.
 
-You have machine learning experience (regression, classification) and statistical reasoning (hypothesis testing, A/B testing), which makes your work data-driven and actionable.
+**Remote-Ready & Collaborative:** I write clean, documented, and reproducible code, making me reliable for remote work or freelance projects.
 
-### Business & Client Awareness
+**Soft Skills That Matter: **Strong problem-solving, analytical thinking, attention to detail, and communication complement my technical skills.
 
-You translate data into insights that matter—not just models. For example:
+**Growth Mindset:** I continuously learn, improve, and adapt to new tools, techniques, and client needs, ensuring that my work keeps delivering value.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Retail sales → trends and seasonality
+## 📂 Featured Projects
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Salary prediction → compensation insights
+These projects represent my current technical level and growth as a data professional:
 
-You approach problems with a client-oriented mindset, which is rare for entry-level talent.
+💼 **Salary Prediction**
 
-### Clean Documentation & Remote-Readiness
+Built a regression model to predict salaries based on factors such as experience, education, and role.
+Skills: EDA, feature engineering, regression modeling, evaluation metrics.
 
-You write clear, reproducible, and professional code.
+**🍷 Wine Quality Prediction**
 
-You document assumptions, steps, and insights, making your projects easy to follow for clients or collaborators.
+Developed a machine learning model to predict wine quality using physicochemical features.
+Skills: Data preprocessing, classification/regression, model comparison.
 
-This is a key differentiator for remote roles or freelance work.
+**🧬 Prostate Cancer Analysis**
 
-### Soft Skills That Complement Your Tech
+Analyzed clinical data to understand key factors influencing prostate cancer outcomes.
+Skills: EDA, statistical analysis, supervised learning, healthcare data handling.
 
-Strong problem-solving and analytical thinking
+**🛍️ Retail Sales Analysis**
 
-Clear communication (explaining technical concepts simply)
+Explored retail sales data to identify sales trends, seasonality, and product performance.
+Skills: Business analysis, visualization, insight generation.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Self-learning and adaptability—you grow with every project
+##🛠️ Core Skills
 
-Collaboration readiness—essential for freelance or team projects
-
-### Growth Mindset
-
-You actively update your portfolio, learn new tools, and improve project quality.
-
-You treat every dataset as a learning opportunity, turning mistakes into polished outcomes.
-
-
-**🛠️ Technical Skills**
-
-Programming & Querying
+- Programming & Querying
 
 Python
 
@@ -95,30 +92,7 @@ Jupyter Notebook
 🧩 Soft Skills
 Problem Solving, Communication, Team Collaboration, Self-Learning
 
-## 📂 Featured Projects
-====================
 
-These projects represent my current technical level and growth as a data professional:
-
-💼 Salary Prediction
-
-Built a regression model to predict salaries based on factors such as experience, education, and role.
-Skills: EDA, feature engineering, regression modeling, evaluation metrics.
-
-🍷 Wine Quality Prediction
-
-Developed a machine learning model to predict wine quality using physicochemical features.
-Skills: Data preprocessing, classification/regression, model comparison.
-
-🧬 Prostate Cancer Analysis
-
-Analyzed clinical data to understand key factors influencing prostate cancer outcomes.
-Skills: EDA, statistical analysis, supervised learning, healthcare data handling.
-
-🛍️ Retail Sales Analysis
-
-Explored retail sales data to identify sales trends, seasonality, and product performance.
-Skills: Business analysis, visualization, insight generation.
 
 🔭 I’m currently working on
 
