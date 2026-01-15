@@ -5,6 +5,7 @@ I’m a Data Analyst and Data Scientist with a background in Computer Engineerin
 My work is project-driven and practical, covering exploratory data analysis (EDA), statistical reasoning, SQL-based analysis, and supervised machine learning. I enjoy working with real datasets to solve problems related to pricing, income prediction, healthcare risk, and business performance.
 
 🌍 Location: Abuja, Nigeria (open to remote roles)
+
 📫 Contact:[LinkedIn](https://www.linkedin.com/in/nkiri-monica-2b220b268) | [Email](mailto:nkirimonica2@gmail.com) 
 
 **🛠️ Technical Skills**
