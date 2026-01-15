@@ -1,4 +1,4 @@
-#👋 Hello, I’m Monica Enyam Nkiri
+# 👋 Hello, I’m Monica Nkiri
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’m a Data Analyst and Data Scientist with a background in Computer Engineering, focused on using data to extract insights, build predictive models, and support data-driven decision-making.
 
@@ -8,7 +8,7 @@ My work is project-driven and practical, covering exploratory data analysis (EDA
 
 📫 Contact:[LinkedIn](https://www.linkedin.com/in/nkiri-monica-2b220b268) | [Email](mailto:nkirimonica2@gmail.com) 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-#💡 Why I Stand Out
+# 💡 Why I Stand Out
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I stand out because I combine technical expertise, business insight, and clear communication in every project I do. I don’t just build models—I deliver actionable, data-driven solutions that clients and teams can trust.
 
@@ -85,13 +85,13 @@ ________________________________________________________________________________
 - 💬 Communication  
 - 🤝 Team Collaboration  
 - 📚 Self-Learning & Growth Mindset
-  __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-##🔭 I’m currently working on
+🔭 ## I’m currently working on
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Improving project documentation, visual storytelling, and reproducible workflows for remote collaboration
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-**🌱 I’m currently learning**
+##🌱 I’m currently learning
 
 Advanced feature engineering and model evaluation techniques
 
@@ -100,10 +100,17 @@ Writing cleaner, production-ready Python notebooks
 Translating business questions into data-driven insights
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**⚡ Fun fact:**
-
-I enjoy breaking down complex datasets into simple, actionable insights—and I document my thinking every step of the way.
+**⚡ Fun fact: **I enjoy breaking down complex datasets into simple, actionable insights—and I document my thinking every step of the way.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
- Skills at a Glance
+## 🏆 Skills at a Glance:
+![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=yellow)
 PostgreSQL Python R Machine Learning NLP Hypothesis Testing Data Visualization EDA Problem Solving Good Communication
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+## 📬 Let's Connect
+
+I am open to collaborative projects and opportunities where I can apply my skills to solve real problems.
+
+- [LinkedIn](https:/www.linkedin.com/in/nkiri-monica-2b220b268)  
+- [Email](mailto:nkirimonica2@gmail.com)  
+- [Twitter](https://twitter.com/your-twitter)
 
