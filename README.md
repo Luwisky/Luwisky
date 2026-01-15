@@ -8,7 +8,7 @@ My work is project-driven and practical, covering exploratory data analysis (EDA
 
 📫 Contact:[LinkedIn](https://www.linkedin.com/in/nkiri-monica-2b220b268) | [Email](mailto:nkirimonica2@gmail.com) 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-# 💡 Why I Stand Out
+## 💡 Why I Stand Out
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I stand out because I combine technical expertise, business insight, and clear communication in every project I do. I don’t just build models—I deliver actionable, data-driven solutions that clients and teams can trust.
 
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🏆 Skills at a Glance:
 ![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=yellow)
-![Machine Learning](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=plastic)
 PostgreSQL Python R Machine Learning NLP Hypothesis Testing Data Visualization EDA Problem Solving Good Communication
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 📬 Let's Connect
