@@ -1,4 +1,4 @@
-#**👋 Hello, I’m Monica Enyam Nkiri**
+#👋 Hello, I’m Monica Enyam Nkiri**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’m a Data Analyst and Data Scientist with a background in Computer Engineering, focused on using data to extract insights, build predictive models, and support data-driven decision-making.
 
@@ -8,20 +8,20 @@ My work is project-driven and practical, covering exploratory data analysis (EDA
 
 📫 Contact:[LinkedIn](https://www.linkedin.com/in/nkiri-monica-2b220b268) | [Email](mailto:nkirimonica2@gmail.com) 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-##**why i stand out**
-### **Portfolio-Driven, Hands-On Learning**
+## why i stand out
+### Portfolio-Driven, Hands-On Learning
 
 Unlike many beginners who only follow tutorials, you build real projects that simulate real business and healthcare problems: salary prediction, retail sales analysis, prostate cancer data, and wine quality prediction.
 
 Each project shows your ability to go end-to-end: cleaning → exploration → modeling → insights.
 
-### **Technical Versatility**
+### Technical Versatility
 
 You can work with Python, R, and SQL/PostgreSQL, covering both coding and database querying.
 
 You have machine learning experience (regression, classification) and statistical reasoning (hypothesis testing, A/B testing), which makes your work data-driven and actionable.
 
-###** Business & Client Awareness**
+### Business & Client Awareness
 
 You translate data into insights that matter—not just models. For example:
 
