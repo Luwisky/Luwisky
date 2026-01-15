@@ -104,6 +104,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🏆 Skills at a Glance:
 ![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=yellow)
+![Machine Learning](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=yellow)
 PostgreSQL Python R Machine Learning NLP Hypothesis Testing Data Visualization EDA Problem Solving Good Communication
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 📬 Let's Connect
